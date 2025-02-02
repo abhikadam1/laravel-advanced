@@ -71,7 +71,7 @@ To resolve this issue:
 
 ### Instructor
 
-Shruti Balasa 
+Abhishek Kadam
                             
 
 
